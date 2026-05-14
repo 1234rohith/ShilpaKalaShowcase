@@ -38,9 +38,6 @@ utils/ → Helper classes
 
 ## ⚙️ Setup Instructions
 
-### Clone the Repository
-
-git clone [https://github.com/malikarshid01430-byte/ShilpaKalaShowcase.git](https://github.com/malikarshid01430-byte/ShilpaKalaShowcase.git)
 
 ---
 
